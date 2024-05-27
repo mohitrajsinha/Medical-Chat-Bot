@@ -17,7 +17,7 @@ techniques to interact with users and provide relevant information.
 - User-Friendly Interface: Designed with an intuitive interface to ensure ease of use for all age groups.
 - Scalable Architecture: Built with scalability in mind, making it easy to extend with new features or improvements in the future.
 
-##Screenshots
+## Screenshots
 ![image](https://github.com/mohitrajsinha/Medical-Chat-Bot/assets/112544299/a9c0570d-ba67-4475-9f9c-3387303b2d01)
 
 
