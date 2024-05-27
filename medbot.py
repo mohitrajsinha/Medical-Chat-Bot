@@ -62,7 +62,7 @@
 # import requests
 # import json
 
-# api_key = "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"
+
 # url = "https://api.openai.com/v1/engines/davinci-codex/completions"
 
 # headers = {
