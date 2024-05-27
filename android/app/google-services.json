@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "381882045030",
+    "project_id": "med-bot-39c5c",
+    "storage_bucket": "med-bot-39c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381882045030:android:904aeb3ef5b70a03c653a7",
+        "android_client_info": {
+          "package_name": "com.example.medbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381882045030-bkuunnr7umdfoea7pfp08u7viurvgnv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQrIV8kWxD_VruUjHfYiXgc2I1STz7WqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381882045030-bkuunnr7umdfoea7pfp08u7viurvgnv5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381882045030-ebl4htjmb9l3lt2d15dmqbsjf04uacuv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
